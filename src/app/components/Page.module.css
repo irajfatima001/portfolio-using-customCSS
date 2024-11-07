@@ -1,0 +1,399 @@
+
+
+.div1 {
+  background: linear-gradient(to right, black, #378680);
+}
+.div2 {
+  
+  max-width: 1200px;
+  margin: 0  auto ;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-bottom: 30px;
+  background: linear-gradient(to right, black, #378680);
+}
+#div3 {
+  font-size: 2rem;
+  text-decoration: underline;
+  color: rgb(12, 240, 228);
+  text-align: center;
+  padding-top: 50px;
+  font-weight: bold;
+  font-style: italic;
+}
+.div4 {
+  margin: 20px;
+  padding: 20px;
+  border: 3px solid #9af0eb;
+  color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out;
+}
+.div4:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 20px 30px rgba(190, 232, 240, 0.5);
+}
+.div5 {
+  font-size: 1.5rem;
+
+  color: #9af0eb;
+}
+#div6 {
+  text-decoration: underline;
+}
+.div6 {
+  font-size: 1.125rem;
+  color: white;
+}
+.div7 {
+  margin: 20px;
+  padding: 20px;
+  border: 3px solid #9af0eb;
+  color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out;
+}
+.div7:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 20px 30px rgba(190, 232, 240, 0.5);
+}
+.div8 {
+  font-size: 1.5rem;
+
+  color: #9af0eb;
+}
+#div9 {
+  text-decoration: underline;
+}
+.div10 {
+  font-size: 1.125rem;
+  color: white;
+}
+.div0 {
+  width: 60px;
+  height: 60px;
+  margin-bottom: 12px;
+  border-radius: 50%;
+  
+}
+.div11 {
+  margin: 20px;
+  padding: 20px;
+  border: 3px solid #9af0eb;
+  color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out;
+}
+.div11:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 20px 30px rgba(190, 232, 240, 0.5);
+}
+.div12 {
+  font-size: 1.5rem;
+
+  color: #9af0eb;
+}
+#div13 {
+  text-decoration: underline;
+}
+.div14 {
+  font-size: 1.125rem;
+  color: white;
+}
+
+.div16 {
+  margin: 20px;
+  padding: 20px;
+  border: 3px solid #9af0eb;
+  color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out;
+}
+.div16:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 20px 30px rgba(190, 232, 240, 0.5);
+}
+
+.div17 {
+  font-size: 1.5rem;
+  color: #9af0eb;
+}
+
+.div18 {
+  text-decoration: underline;
+}
+
+.div20 {
+  display: flex; 
+  justify-content: center; 
+  gap: 20px; 
+  flex-wrap: wrap; 
+}
+
+.div21 {
+  width: 150px; 
+  text-align: center;
+  position: relative;
+  transition: transform 0.3s ease-in-out; 
+}
+
+.div21:hover {
+  transform: translateY(-10px); 
+}
+
+.div22 {
+  width: 80px;
+  height: 80px;
+  margin-bottom: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.div23 {
+  color: white;
+ 
+  
+}
+
+.div24 {
+  display: block;
+  font-size: 1.2rem;
+}
+
+.div25 {
+  position: absolute;
+  bottom: -8px; 
+  left: 25%;
+  right: 25%;
+  transform: translateX(-50%);
+  width: 75%;
+  background-color: #d1d5db;
+  border-radius: 9999px;
+  height: 8px;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out, bottom 0.3s ease-in-out;
+}
+
+.div21:hover .div25 {
+  opacity: 1;
+  bottom: -16px; 
+  
+}
+
+.div26 {
+  background: linear-gradient(to right, #06eee2, #6366f1);
+  height: 100%;
+  border-radius: 9999px;
+  
+}
+
+.div27 {
+  margin: 20px;
+  padding: 20px;
+  border: 3px solid #9af0eb;
+  color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out;
+}
+.div27:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 20px 30px rgba(190, 232, 240, 0.5);
+}
+.div28 {
+  font-size: 1.5rem;
+  text-align: center;
+  color: #9af0eb;
+}
+#div29 {
+  text-decoration: underline;
+}
+.div30 {
+  font-size: 1.125rem;
+  color: white;
+}
+.div31 {
+  text-align: center;
+}
+.div32:hover {
+  background-color: #f1f5f9;
+}
+.div32 {
+  padding: 10px 20px;
+  font-size: 1rem;
+  color: white;
+  background-color: #15eee3;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+/* responsiveness */
+@media (max-width: 960px) {
+  .div2 {
+    padding-left: 10px;
+    padding-right: 10px; 
+  }
+  #div3 {
+    font-size: 1.8rem;
+    padding-top: 50px;
+  }
+  .div4, .div7, .div11, .div16, .div27 {
+    padding: 15px;
+    margin: 15px;
+  }
+  .div5, .div8, .div12, .div17, .div28 {
+    font-size: 1.3rem;
+  }
+  .div21 {
+    width: 130px;
+  }
+  .div22 {
+    width: 70px;
+    height: 70px;
+  }
+  .div23 {
+    font-size: 1.1rem;
+  }
+  .div20 {
+    gap: 15px;
+  }
+  .div25 {
+    bottom: -16px;
+    width: 80%;
+  }
+  .div31 {
+    font-size: 0.9rem;
+  }
+  
+  .div2 {
+    padding-right: 16px; 
+  }
+
+  
+  .div0 {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 10px;
+  }
+
+ 
+  .div24 {
+    font-size: 1rem;
+  }
+}
+
+
+@media (max-width: 768px) {
+  .div2 {
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+  #div3 {
+    font-size: 1.6rem;
+    padding-top: 50px;
+  }
+  .div4, .div7, .div11, .div16, .div27 {
+    padding: 12px;
+    margin: 12px;
+  }
+  .div5, .div8, .div12, .div17, .div28 {
+    font-size: 1.2rem;
+  }
+  .div21 {
+    width: 110px;
+  }
+  .div22 {
+    width: 60px;
+    height: 60px;
+  }
+  .div20 {
+    flex-direction: column;
+    align-items: center;
+  }
+  .div25 {
+    width: 90%;
+    bottom: -16px;
+  }
+  .div32 {
+    font-size: 0.9rem;
+  }
+  .div24 {
+    font-size: 1.1rem;
+  }
+
+  .div0 {
+    width: 45px;
+    height: 45px;
+    margin-bottom: 8px;
+  }
+
+  .div2 {
+    padding-right: 8px;
+  }
+}
+
+
+@media (max-width: 480px) {
+  .div2 {
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+  #div3 {
+    font-size: 1.4rem;
+    padding-top: 50px;
+  }
+  .div4, .div7, .div11, .div16, .div27 {
+    padding: 10px;
+    margin: 10px;
+  }
+  .div5, .div8, .div12, .div17, .div28 {
+    font-size: 1rem;
+  }
+  .div21 {
+    width: 100px;
+  }
+  .div22 {
+    width: 50px;
+    height: 50px;
+  }
+  .div20 {
+    flex-direction: column;
+    gap: 30px;
+  }
+  .div25 {
+    width: 85%;
+    bottom: -16px;
+  }
+  .div31 {
+    font-size: 0.8rem;
+  }
+  .div32 {
+    font-size: 0.8rem;
+    padding: 8px 16px;
+  }
+  .div24 {
+    font-size: 1rem;
+  }
+
+  
+  .div0 {
+    width: 40px;
+    height: 40px;
+    margin-bottom: 6px;
+  }
+
+ 
+  .div2 {
+    padding-right: 5px;
+  }
+}
+
+
